@@ -27,7 +27,7 @@ export default function Home() {
             <div className="hero-actions home-premium-actions home-anim-4">
               <a
                 className="primary-button"
-                href="https://wa.me/5548999999999?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
+                href="https://wa.me/5548991087702?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -218,7 +218,7 @@ export default function Home() {
 
           <a
             className="primary-button"
-            href="https://wa.me/5548999999999?text=Olá%2C%20quero%20fazer%20um%20orçamento"
+            href="https://wa.me/5548991087702?text=Olá%2C%20quero%20fazer%20um%20orçamento"
             target="_blank"
             rel="noreferrer"
           >

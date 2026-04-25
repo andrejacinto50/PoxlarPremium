@@ -100,7 +100,7 @@ export default function Header() {
 
           <a
             className="header-cta header-cta-premium"
-            href="https://wa.me/5548999999999?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
+            href="https://wa.me/5548991087702?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
             target="_blank"
             rel="noreferrer"
             onClick={() => setOpen(false)}

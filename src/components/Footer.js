@@ -25,7 +25,7 @@ export default function Footer() {
 
         <div>
           <h4>Contato</h4>
-          <p>WhatsApp: (48) 99999-9999</p>
+          <p>WhatsApp: (48) 99108-7702</p>
           <p>Instagram: @poxlar_pisos</p>
           <p>Atendimento em Santa Catarina e região</p>
         </div>

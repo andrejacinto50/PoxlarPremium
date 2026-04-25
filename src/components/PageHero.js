@@ -23,7 +23,7 @@ export default function PageHero({
           <div className="page-hero-premium-actions page-hero-anim-4">
             <a
               className="primary-button"
-              href="https://wa.me/5548999999999?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
+              href="https://wa.me/5548991087702?text=Olá%2C%20quero%20solicitar%20um%20orçamento"
               target="_blank"
               rel="noreferrer"
             >
