@@ -7,21 +7,23 @@ export default function Processo() {
     <>
       <PageHero
         kicker="PROCESSO"
-        title="Organização, preparo e execução para um resultado mais seguro e profissional."
-        text="Cada etapa da aplicação influencia diretamente na durabilidade, na estética e no padrão final do ambiente."
+        title="Um processo técnico pensado para entregar mais segurança, durabilidade e acabamento profissional."
+        text="Cada etapa é planejada para garantir aderência, resistência e um resultado final que valoriza o ambiente."
       />
 
       <section className="section-block processo-premium-section">
         <div className="container">
-
           <div className="section-heading processo-premium-heading">
             <span className="section-kicker processo-anim-1">ETAPAS</span>
+
             <h2 className="processo-premium-title processo-anim-2">
-              Uma execução estruturada para garantir qualidade em cada detalhe.
+              Da análise inicial à entrega, cada detalhe influencia no resultado.
             </h2>
+
             <p className="processo-premium-text processo-anim-3">
-              Do diagnóstico inicial até a entrega final, cada fase é pensada para
-              evitar falhas, garantir aderência e entregar um acabamento de alto padrão.
+              Um piso bem executado começa antes da aplicação. Por isso, o processo
+              envolve avaliação do ambiente, preparação correta da superfície e execução
+              técnica para garantir um acabamento uniforme, resistente e durável.
             </p>
           </div>
 
@@ -37,7 +39,6 @@ export default function Processo() {
               </article>
             ))}
           </div>
-
         </div>
       </section>
     </>

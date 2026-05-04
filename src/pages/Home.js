@@ -14,14 +14,12 @@ export default function Home() {
             <span className="section-kicker home-anim-1">POXLAR PISOS</span>
 
             <h1 className="home-premium-title home-anim-2">
-              Pisos epóxi e revestimentos de alto padrão para ambientes que exigem
-              impacto visual e performance.
+              Transforme seu ambiente com pisos epóxi modernos, resistentes e de alto padrão.
             </h1>
 
             <p className="home-premium-text home-anim-3">
-              Soluções técnicas para espaços residenciais, comerciais e industriais,
-              com foco em durabilidade, acabamento profissional e valorização real
-              do ambiente.
+              Soluções em pisos e revestimentos para quem busca mais durabilidade,
+              fácil manutenção e um acabamento profissional que valoriza o espaço.
             </p>
 
             <div className="hero-actions home-premium-actions home-anim-4">
@@ -41,18 +39,18 @@ export default function Home() {
 
             <div className="home-premium-mini-grid home-anim-4">
               <div className="home-premium-mini-card">
-                <strong>Acabamento premium</strong>
-                <span>Visual moderno e técnico</span>
+                <strong>Visual moderno</strong>
+                <span>Mais valorização para o ambiente</span>
               </div>
 
               <div className="home-premium-mini-card">
                 <strong>Alta resistência</strong>
-                <span>Estrutura para uso intenso</span>
+                <span>Ideal para uso residencial, comercial e industrial</span>
               </div>
 
               <div className="home-premium-mini-card">
-                <strong>Aplicação profissional</strong>
-                <span>Mais confiança no resultado</span>
+                <strong>Fácil manutenção</strong>
+                <span>Mais praticidade, limpeza e durabilidade</span>
               </div>
             </div>
           </div>
@@ -63,7 +61,7 @@ export default function Home() {
               style={{ backgroundImage: `url(${residencialImg})` }}
             >
               <span>Residencial</span>
-              <strong>Garagens, áreas gourmet e espaços premium</strong>
+              <strong>Garagens, áreas gourmet e espaços valorizados</strong>
             </div>
 
             <div
@@ -71,7 +69,7 @@ export default function Home() {
               style={{ backgroundImage: `url(${comercialImg})` }}
             >
               <span>Comercial</span>
-              <strong>Lojas, clínicas e ambientes de atendimento</strong>
+              <strong>Lojas, clínicas e ambientes que precisam transmitir confiança</strong>
             </div>
 
             <div
@@ -79,7 +77,7 @@ export default function Home() {
               style={{ backgroundImage: `url(${industrialImg})` }}
             >
               <span>Industrial</span>
-              <strong>Resistência para operações de maior exigência</strong>
+              <strong>Resistência e acabamento para áreas de maior exigência</strong>
             </div>
           </div>
         </div>
@@ -90,12 +88,12 @@ export default function Home() {
           <div className="home-fade-up">
             <span className="section-kicker">DIFERENCIAL</span>
             <h2 className="home-premium-section-title">
-              Mais do que piso: uma solução que eleva o padrão visual e técnico do
-              ambiente.
+              Um acabamento que muda a percepção do seu espaço.
             </h2>
             <p className="home-premium-section-text">
-              A Poxlar entrega uma aplicação pensada para unir presença visual,
-              resistência e acabamento profissional em diferentes tipos de projeto.
+              Além da resistência, o piso epóxi entrega uma aparência mais limpa,
+              moderna e profissional, ajudando o ambiente a transmitir mais cuidado,
+              organização e valor.
             </p>
           </div>
 
@@ -117,11 +115,12 @@ export default function Home() {
           <div className="section-heading home-fade-up">
             <span className="section-kicker">SOLUÇÕES</span>
             <h2 className="home-premium-section-title">
-              Estrutura pensada para diferentes tipos de aplicação.
+              A solução certa para cada tipo de ambiente.
             </h2>
             <p className="home-premium-section-text">
-              Cada ambiente exige um padrão técnico e visual diferente. Por isso,
-              a aplicação é direcionada conforme o uso, o contexto e o resultado esperado.
+              Cada espaço tem uma necessidade diferente. Por isso, a aplicação é
+              pensada conforme o uso do ambiente, o nível de circulação e o resultado
+              visual esperado.
             </p>
           </div>
 
@@ -145,10 +144,11 @@ export default function Home() {
             <div>
               <span className="section-kicker">PROJETOS</span>
               <h2 className="home-premium-section-title">
-                Apresentação premium para resultados que precisam gerar confiança.
+                Resultados que mostram acabamento, resistência e valorização.
               </h2>
               <p className="home-premium-section-text">
-                Uma seleção pensada para reforçar qualidade, versatilidade e impacto visual.
+                Exemplos de aplicação pensados para demonstrar como o piso certo
+                pode transformar a percepção de um ambiente.
               </p>
             </div>
 
@@ -182,10 +182,11 @@ export default function Home() {
           <div className="section-heading home-fade-up">
             <span className="section-kicker">PROCESSO</span>
             <h2 className="home-premium-section-title">
-              Uma execução organizada do começo ao fim.
+              Do preparo à entrega, cada etapa faz diferença.
             </h2>
             <p className="home-premium-section-text">
-              O resultado final depende de análise, preparação correta e aplicação com padrão técnico.
+              Um bom resultado depende de análise do ambiente, preparação correta
+              da superfície e aplicação técnica para garantir acabamento e durabilidade.
             </p>
           </div>
 
@@ -209,10 +210,11 @@ export default function Home() {
           <div>
             <span className="section-kicker">ORÇAMENTO</span>
             <h2 className="home-premium-section-title">
-              Seu ambiente pode transmitir muito mais valor com o acabamento certo.
+              Quer valorizar seu ambiente com um acabamento moderno e resistente?
             </h2>
             <p className="home-premium-section-text">
-              Fale com a Poxlar Pisos e receba uma avaliação para o seu projeto.
+              Fale com a Poxlar Pisos e solicite uma avaliação para entender a melhor
+              solução para o seu espaço.
             </p>
           </div>
 

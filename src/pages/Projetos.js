@@ -7,8 +7,8 @@ export default function Projetos() {
     <>
       <PageHero
         kicker="PROJETOS"
-        title="Uma apresentação pensada para reforçar qualidade, versatilidade e confiança no serviço."
-        text="Aqui entram fotos reais, antes e depois, vídeos de aplicação e resultados finais. A estrutura abaixo já está pronta para você substituir pelos materiais reais da empresa."
+        title="Projetos que mostram na prática o padrão de acabamento, resistência e resultado final."
+        text="Cada aplicação é pensada para unir estética, durabilidade e valorização do ambiente, independente do tipo de espaço."
         primaryLabel="Falar sobre meu projeto"
       />
 
@@ -17,13 +17,14 @@ export default function Projetos() {
           <div className="section-heading between projetos-premium-heading">
             <div>
               <span className="section-kicker projetos-premium-anim-1">PORTFÓLIO</span>
+
               <h2 className="projetos-premium-title projetos-premium-anim-2">
-                Resultados pensados para transmitir impacto visual, técnica e confiança.
+                Resultados reais que reforçam confiança e percepção de valor.
               </h2>
+
               <p className="projetos-premium-text projetos-premium-anim-3">
-                A apresentação dos projetos reforça a versatilidade da aplicação em
-                diferentes contextos, mostrando acabamento, padrão visual e presença
-                profissional em cada ambiente.
+                Aqui você visualiza na prática como o acabamento impacta o ambiente.
+                Cada projeto representa organização, técnica e um resultado que valoriza o espaço.
               </p>
             </div>
           </div>
@@ -35,7 +36,9 @@ export default function Projetos() {
                 className={`project-card large projetos-premium-card projetos-premium-anim-${Math.min(index + 1, 5)}`}
               >
                 <span>{project.category}</span>
+
                 <h3>{project.title}</h3>
+
                 <p>{project.description}</p>
 
                 <div

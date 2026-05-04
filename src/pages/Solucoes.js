@@ -7,21 +7,23 @@ export default function Solucoes() {
     <>
       <PageHero
         kicker="SOLUÇÕES"
-        title="Aplicações pensadas para diferentes contextos, sempre com padrão técnico e visual elevado."
-        text="A Poxlar Pisos atende projetos em ambientes residenciais, comerciais e industriais, com soluções que unem performance, estética e praticidade."
+        title="Soluções em pisos epóxi desenvolvidas para diferentes tipos de ambiente e nível de exigência."
+        text="Cada projeto é analisado para entregar o melhor equilíbrio entre resistência, estética e durabilidade, de acordo com a necessidade real do espaço."
       />
 
       <section className="section-block solucoes-premium-section">
         <div className="container">
           <div className="section-heading solucoes-premium-heading">
             <span className="section-kicker solucoes-premium-anim-1">APLICAÇÕES</span>
+
             <h2 className="solucoes-premium-title solucoes-premium-anim-2">
-              Estruturas pensadas para diferentes ambientes e níveis de exigência.
+              Cada ambiente exige uma solução específica para garantir o melhor resultado.
             </h2>
+
             <p className="solucoes-premium-text solucoes-premium-anim-3">
-              Cada solução é definida de acordo com o contexto do espaço, a rotina
-              de uso e o padrão visual esperado, garantindo resultado técnico e
-              apresentação profissional.
+              O tipo de uso, o fluxo de pessoas e o objetivo do espaço influenciam diretamente
+              na escolha da aplicação. Por isso, cada solução é definida de forma estratégica
+              para entregar desempenho e acabamento profissional.
             </p>
           </div>
 
@@ -43,13 +45,15 @@ export default function Solucoes() {
         <div className="container two-column align-start">
           <div className="solucoes-premium-anim-2">
             <span className="section-kicker">VANTAGENS</span>
+
             <h2 className="solucoes-premium-title">
-              Por que esse tipo de solução gera mais valor para o espaço?
+              Mais do que estética: uma solução que melhora o ambiente no dia a dia.
             </h2>
+
             <p className="solucoes-premium-text">
-              Além do aspecto visual, esse tipo de aplicação melhora a percepção
-              do ambiente, reforça a organização do espaço e entrega mais praticidade
-              no dia a dia.
+              Além do visual moderno, esse tipo de aplicação facilita a limpeza,
+              melhora a organização do espaço e transmite mais profissionalismo,
+              seja em ambientes residenciais, comerciais ou industriais.
             </p>
           </div>
 

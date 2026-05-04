@@ -36,22 +36,23 @@ export default function PageHero({
           <div className="hero-glow page-hero-premium-glow" />
 
           <div className="hero-panel page-hero-premium-panel">
-            <span>Acabamento técnico</span>
-            <strong>Visual moderno + alta resistência</strong>
+            <span>Aplicação profissional</span>
+            <strong>Resistência, estética e acabamento de alto padrão</strong>
+
             <p>
-              Estrutura premium para espaços que precisam unir desempenho e
-              apresentação profissional.
+              Uma solução pensada para valorizar o ambiente, facilitar a manutenção
+              e entregar mais confiança no resultado final.
             </p>
 
             <div className="page-hero-premium-mini-list">
               <div className="page-hero-premium-mini-item">
-                <strong>Durabilidade</strong>
-                <span>Estrutura pensada para uso intenso</span>
+                <strong>Mais durabilidade</strong>
+                <span>Preparação e aplicação pensadas para uso contínuo</span>
               </div>
 
               <div className="page-hero-premium-mini-item">
-                <strong>Estética</strong>
-                <span>Mais presença visual para o ambiente</span>
+                <strong>Mais valorização</strong>
+                <span>Visual moderno para ambientes residenciais, comerciais e industriais</span>
               </div>
             </div>
           </div>
